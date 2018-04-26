@@ -1,0 +1,39 @@
+body {
+    background: 
+        url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/TtcstKI/videoblocks-abstract-motion-background-digital-data-networks-loop_r-ghizhxz_thumbnail-full01.png');
+    background-size: cover;
+    color: white;
+}
+
+.App {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 8%;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.App-Title {
+    font-size: 1.5em;
+    font-family: 'Bangers', cursive;
+}
+
+.Countdown-container {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 2% auto;
+    border: 1px solid white;
+    background-color: rgba(32, 32, 32, 0.65);
+}
+
+.clock {
+    margin: 25px;
+    text-shadow: 2px 3px 8px #414040;
+}
+
+.new-date {
+    height: 35px;
+    margin: 2px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif; 
+}
